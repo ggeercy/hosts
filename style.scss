@@ -1,3 +1,4 @@
+
 $white: #ffffff;
 $black: #050505;
 $primary1: #5793cf;
@@ -99,13 +100,13 @@ body {
       transparent 50%,
       $white 50%,
 
-    ), url(../images/hero-img.jpg);
+    ), url(https://cdn.jsdelivr.net/gh/ggeercy/hosts/hero-img.jpg);
   background-size: cover;
 }
 
 .sub_page .hero_area {
   height: auto;
-  background: url(../images/hero-img.jpg);
+  background: url(https://cdn.jsdelivr.net/gh/ggeercy/hosts/hero-img.jpg);
 
 }
 
